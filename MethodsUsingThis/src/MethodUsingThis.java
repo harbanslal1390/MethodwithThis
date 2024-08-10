@@ -7,7 +7,7 @@ public void defaultmethod()
 public void methodWithOneParameter(int a)
 {
 	
-	System.out.println("This is one parametized method");
+	System.out.println("This is  one parametized method");
 	this.methodWithTwoParameter(10,20);
 }
 public void methodWithTwoParameter(int a, int b)
